@@ -1,0 +1,22 @@
+const Colors = {
+  background: '#F5F8F9',
+  accent: '#ff7171',
+  black: '#000',
+  disabled: '#E4E4E4',
+  grey: '#979797',
+  grey1: '#525252',
+  lightGrey: '#AEAEAE',
+  lightGrayishBlue: '#F5F8F9',
+  primary: '#237EC5',
+  primarylite: '#5EB8F7',
+  veryPaleRed: '#FFC0CB',
+  white: '#fff',
+  disabledIcon: '#d3d1ed',
+  whiteSolid: '#ffffff',
+  buttonGradient: ['#237EC5', '#237EC5', '#33ccff'],
+  lightpink: '#F07973',
+  lightBlue: '#47BEF8',
+  lightYellow: '#F2D14C',
+  lightGreen: '#53D5A5',
+};
+export default Colors;

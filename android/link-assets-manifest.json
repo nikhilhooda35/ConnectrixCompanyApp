@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/lato_medium.ttf",
+      "sha1": "c78e94b7cc0b782eef4f9f2be371c3cf9c3f6eaf"
+    },
+    {
+      "path": "src/assets/fonts/m_lato_black.ttf",
+      "sha1": "323abbf5767f2ddedc41ead22ab929847a92e5b3"
+    },
+    {
+      "path": "src/assets/fonts/m_lato_bold.ttf",
+      "sha1": "aac3a9283deb830fb235b6a610ecb59d1b58f865"
+    },
+    {
+      "path": "src/assets/fonts/m_lato_light.ttf",
+      "sha1": "b94e9359d8cec2b54a6d4857e0111819d49c1028"
+    },
+    {
+      "path": "src/assets/fonts/m_lato_regular.ttf",
+      "sha1": "559f34487df3654288b621c29ff877af68d2e898"
+    },
+    {
+      "path": "src/assets/fonts/m_lato_semi_bold.ttf",
+      "sha1": "6cae2d067bf63873cda05186746a704eede8cc00"
+    },
+    {
+      "path": "src/assets/fonts/proximanova_semibold.ttf",
+      "sha1": "7edf612a1a7551ac0820b577bc8f3acb9447905e"
+    }
+  ]
+}
